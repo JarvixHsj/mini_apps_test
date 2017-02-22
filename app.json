@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/board/board",
+    "pages/index/index",
+    "pages/list/list",
+    "pages/item/item",
+    "pages/search/search",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#35495e",
+    "navigationBarTitleText": "电影",
+    "navigationBarTextStyle":"white"
+  }
+}

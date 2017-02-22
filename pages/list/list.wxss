@@ -1,0 +1,7 @@
+text{
+    font-size:14px;
+    background: #ff0;
+    color:fff;
+    border:1px solid black;
+    margin:10px;
+}
